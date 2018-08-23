@@ -5,7 +5,7 @@ function init() {
   document.body.addEventListener('keydown', function(e) {
     // console.log("-- keydown --");
     // let keyNumber = (e.detail || e.which);
-    // 
+    //
     // if (keyNumber === 38) {
     //   console.log("-- up --");
     }
